@@ -7,20 +7,24 @@
         <item>Nirvana</item>
         <item>U2</item>
         <item>Offspring</item>
-        <item>Guns n' Roses</item>
-        <item>Montley Cru</item>
-        <item>Third Eye Blind</item>
         <item>Ace of Base</item>
-        <item>Cypress Hill</item>
+        <item>Guns n Roses</item>
         <item>Gotts Street Park</item>
-        <item>Gorillaz</item>
         <item>Dave Matthews Band</item>
         <item>The Allman Brothers</item>
+        <item>Sublime</item>
     </string-array>
 
     <string-array name="descriptions">
         <item>An English rock band that formed in Liverpool in 1960.</item>
         <item>An American rock band that formed in Washington in 1987.</item>
         <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>hold</item>
+        <item>hold</item>
+        <item>hold</item>
+        <item>hold</item>
+        <item>hold</item>
+        <item>hold</item>
+        <item>hold</item>
     </string-array>
 </resources>
